@@ -234,7 +234,7 @@ body.fixed-nav {
 }
 
 #mainNav.fixed-top.navbar-light .sidenav-toggler {
-  background-color: silver;
+  background-color: lightgrey;
 }
 
 #mainNav.fixed-top.navbar-light .sidenav-toggler a i {
@@ -339,7 +339,7 @@ body.sidenav-toggled .navbar-sidenav-tooltip.show {
 }
 
 #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item > .nav-link:hover {
-  color: silver;
+  color: lightgrey;
 }
 
 #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item .sidenav-second-level > li > a,
