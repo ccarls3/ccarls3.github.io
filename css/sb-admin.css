@@ -230,7 +230,7 @@ body.fixed-nav {
 }
 
 #mainNav.fixed-top.navbar-dark .sidenav-toggler a i {
-  color: #adb5bd;
+  color: silver;
 }
 
 #mainNav.fixed-top.navbar-light .sidenav-toggler {
@@ -339,7 +339,7 @@ body.sidenav-toggled .navbar-sidenav-tooltip.show {
 }
 
 #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item > .nav-link:hover {
-  color: #adb5bd;
+  color: silver;
 }
 
 #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item .sidenav-second-level > li > a,
@@ -350,11 +350,11 @@ body.sidenav-toggled .navbar-sidenav-tooltip.show {
 #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item .sidenav-second-level > li > a:focus, #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item .sidenav-second-level > li > a:hover,
 #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item .sidenav-third-level > li > a:focus,
 #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item .sidenav-third-level > li > a:hover {
-  color: #adb5bd;
+  color: silver;
 }
 
 #mainNav.navbar-dark .navbar-collapse .navbar-nav > .nav-item.dropdown > .nav-link:after {
-  color: #adb5bd;
+  color: silver;
 }
 
 @media (min-width: 992px) {
