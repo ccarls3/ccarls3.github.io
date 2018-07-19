@@ -234,7 +234,7 @@ body.fixed-nav {
 }
 
 #mainNav.fixed-top.navbar-light .sidenav-toggler {
-  background-color: #dee2e6;
+  background-color: silver;
 }
 
 #mainNav.fixed-top.navbar-light .sidenav-toggler a i {
@@ -350,7 +350,7 @@ body.sidenav-toggled .navbar-sidenav-tooltip.show {
 #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item .sidenav-second-level > li > a:focus, #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item .sidenav-second-level > li > a:hover,
 #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item .sidenav-third-level > li > a:focus,
 #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item .sidenav-third-level > li > a:hover {
-  color: white;
+  color: lightgrey;
 }
 
 #mainNav.navbar-dark .navbar-collapse .navbar-nav > .nav-item.dropdown > .nav-link:after {
